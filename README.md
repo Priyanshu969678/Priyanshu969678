@@ -2,8 +2,7 @@
 - 👀 I’m interested in java
 - 🌱 I’m currently learning full stack
 - 💞️ I’m looking to collaborate on java project
-- 📫 How to reach me 
-- 😄 Pronouns: 
+- 📫 How to reach me www.linkedin.com/in/priyanshu-kumar-9191a6237
 - ⚡ Fun fact: i creates funny memes
 
 <!---
